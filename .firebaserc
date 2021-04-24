@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "online-shop-800f4": {
+      "hosting": {
+        "Online-Shop": [
+          "online-shop-800f4"
+        ]
+      }
+    }
+  }
+}
